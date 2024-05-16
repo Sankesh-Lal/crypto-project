@@ -1,0 +1,17 @@
+@import url("https://fonts.googleapis.com/css2?family=Patrick+Hand&display=swap");
+* {
+  font-family: "Patrick Hand", cursive;
+  font-weight: 400;
+}
+
+.bg-hero-section {
+  background-image: url(../images/bg-color.jpeg);
+  height: 150vh;
+  background-size: 100%;
+  background-repeat: no-repeat;
+  /* background: linear-gradient(rgba(196, 196, 196, 1), rgba(196, 196, 196, 0)); */
+}
+
+.text-green {
+  color: rgba(66, 228, 146, 1);
+}
